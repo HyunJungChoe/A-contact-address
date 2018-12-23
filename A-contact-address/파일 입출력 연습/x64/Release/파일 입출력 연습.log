@@ -1,0 +1,22 @@
+﻿  메인 함수.c
+c:\users\skan0\desktop\파일 입출력 연습\파일 입출력 연습\파일 입출력 연습\메인 함수.c(39): warning C4013: 'banner'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\skan0\desktop\파일 입출력 연습\파일 입출력 연습\파일 입출력 연습\메인 함수.c(46): warning C4013: '_login'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\skan0\desktop\파일 입출력 연습\파일 입출력 연습\파일 입출력 연습\메인 함수.c(51): warning C4013: 'User_Register_get'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\skan0\desktop\파일 입출력 연습\파일 입출력 연습\파일 입출력 연습\메인 함수.c(55): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\skan0\desktop\파일 입출력 연습\파일 입출력 연습\파일 입출력 연습\메인 함수.c(41): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(456): note: 'getche' 선언을 참조하십시오.
+  배너.c
+  소스2.c
+c:\users\skan0\desktop\파일 입출력 연습\파일 입출력 연습\파일 입출력 연습\소스2.c(57): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\skan0\desktop\파일 입출력 연습\파일 입출력 연습\파일 입출력 연습\소스2.c(30): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\skan0\desktop\파일 입출력 연습\파일 입출력 연습\파일 입출력 연습\소스2.c(138): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int *[16]'과(와) 다릅니다.
+c:\users\skan0\desktop\파일 입출력 연습\파일 입출력 연습\파일 입출력 연습\소스2.c(138): warning C4024: 'strcmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\skan0\desktop\파일 입출력 연습\파일 입출력 연습\파일 입출력 연습\소스2.c(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\skan0\desktop\파일 입출력 연습\파일 입출력 연습\파일 입출력 연습\소스2.c(180): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+  코드를 생성하고 있습니다.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  파일 입출력 연습.vcxproj -> C:\Users\skan0\Desktop\파일 입출력 연습\파일 입출력 연습\x64\Release\파일 입출력 연습.exe
